@@ -1,0 +1,11 @@
+/* YOUR CUSTOM STYLES */
+.inventory-type{
+    font-size: 15px;
+    color: #0984e3;
+}
+
+.price-type{
+    font-size: 15px;
+    color: #2d3436;
+    font-weight: bolder;
+}
