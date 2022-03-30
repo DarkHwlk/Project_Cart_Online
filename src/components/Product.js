@@ -41,7 +41,7 @@ class Product extends Component {
                             >
                                 <i className="fa fa-shopping-cart"></i>
                             </a>
-                        </span>
+                        </span><br/>
                         <span className="left inventory-type">Amount: {this.showAmountProduct(cart, product)}</span>
                     </div>
                 </div>
